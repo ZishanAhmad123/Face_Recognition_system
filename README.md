@@ -1,4 +1,4 @@
-# inception_v3_face_recognition
+# Inception_v3_Face_Recognition
 Inception v3 model used for face recognition trained on 105 celebrity images collected from pinterest
 
 # For detailed information 
