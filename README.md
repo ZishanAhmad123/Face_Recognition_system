@@ -1,5 +1,6 @@
-# Inception_v3_Face_Recognition
-Inception v3 model used for face recognition trained on 105 celebrity images collected from pinterest
+# Face Recognition System Using Trained DataSet
+In this project we have to detect test data using KNN algorithm over Trained dataset and predict the corresponding Detected face
 
 # For detailed information 
-On what is happeing in the jupyter noteboook see inception.yaml
+See what is happening in PyCharm IDE
+
